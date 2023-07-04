@@ -139,7 +139,22 @@ header{
 }
 /*course end*/
 /*testimony start*/
-.testimony{
+/*testimony start*/
+.testimony {
+	margin-left: 20px;
+	font-family: 'Poppins';
+	display: flex;
+	align-items: center;
+}
+.testimony img{
+	margin-top: 50px;
+	margin-left: 270px;
+	width: 120px;
+	height: 120px;
+}
+.p_tag{
+	margin-top: 76px;
+	margin-right: 25px;
 }
 /*testimony end*/
 /*footer top start*/
